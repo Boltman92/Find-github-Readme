@@ -1,4 +1,5 @@
-# SkillCrucial React Redux boilerplate
+This project can help you to find Readme file from Github Repositories. You just have to type name of GitHub account and choose repo.
+Enjoy!
 
 ## Quick start
 
